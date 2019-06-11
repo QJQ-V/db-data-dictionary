@@ -1,0 +1,7 @@
+D:\project\demo\生成数据字典\DBDataDictionary\DBDataDictionary\obj\Debug\DBDataDictionary.csproj.CoreCompileInputs.cache
+D:\project\demo\生成数据字典\DBDataDictionary\DBDataDictionary\bin\Debug\DBDataDictionary.exe.config
+D:\project\demo\生成数据字典\DBDataDictionary\DBDataDictionary\bin\Debug\DBDataDictionary.exe
+D:\project\demo\生成数据字典\DBDataDictionary\DBDataDictionary\bin\Debug\DBDataDictionary.pdb
+D:\project\demo\生成数据字典\DBDataDictionary\DBDataDictionary\obj\Debug\DBDataDictionary.exe
+D:\project\demo\生成数据字典\DBDataDictionary\DBDataDictionary\obj\Debug\DBDataDictionary.pdb
+D:\project\demo\生成数据字典\DBDataDictionary\DBDataDictionary\obj\Debug\DBDataDictionary.csprojAssemblyReference.cache

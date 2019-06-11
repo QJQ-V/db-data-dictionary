@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <!-- 最新版本的 Bootstrap 核心 CSS 文件 -->
+    <link rel="stylesheet" href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <script src="https://cdn.bootcss.com/jquery/2.1.1/jquery.min.js"></script>
+    <!-- 最新的 Bootstrap 核心 JavaScript 文件 -->
+    <script src="https://cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    <style>
+        .header {
+            height: 100px;
+            line-height: 100px;
+            text-align: center;
+            font-size: 30px;
+            border-bottom: 2px solid;
+        }
+        #myTabContent {
+            height: 600px;
+            overflow: auto;
+            border-bottom: 1px solid #eee;
+        }
+        .table-caption {
+            color: #000;
+            font-weight: 700;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <span>CNABS 数据字典</span>
+        </div>
+        <div class="content">
+            <ul id="myTab" class="nav nav-tabs">
+                $tabHtml
+            </ul>
+            <div id="myTabContent" class="tab-content">
+                $tabConentHtml
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
